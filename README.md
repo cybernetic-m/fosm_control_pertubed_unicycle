@@ -8,12 +8,7 @@ In this project I compare the "First Order Sliding Mode" (FOSM) Control [1] with
  cd fosm_control_perturbed_unicycle
  ```
 
-2) Open and run the "main.m" file, and you can choose:
-
-2.1) Trajectory types: Circle or Lemniscate (Infinity) curves
-
-2.2) Disturbances: Zero, Small or Large Disturbances
-
+2) Open and run the "main.m" file
 
 # Project Structure 
 
