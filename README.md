@@ -44,7 +44,7 @@ To use the project you can run the "main.m" file choosing:
 
 
 # Trajectories
-<img src="gif_images/traj_large.jpg" width="700" height="415" alt="Demo"> 
+<img src="gif_images/traj_large.jpg" width="600" height="415" alt="Demo"> 
 
 
 # Error in x
