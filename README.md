@@ -41,11 +41,11 @@ To use the project you can run the "main.m" file choosing:
 
 # Video
 <img src="gif_images/gif_fosm.gif" width="400" height="400" alt="Demo">
-![Demo](gif_images/gif_fosm.gif)
+
 
 # Trajectories
 <img src="gif_images/traj_large.jpg" width="800" height="415" alt="Demo"> 
-![Demo](gif_images/traj_large.jpg)
+
 
 # Error in x
 ![Alt Text](gif_images/e_x_large.jpg)
