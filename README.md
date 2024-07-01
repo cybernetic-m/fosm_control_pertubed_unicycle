@@ -2,13 +2,16 @@
 In this project I compare the "First Order Sliding Mode" (FOSM) Control [1] with the classical "Approximate Linearization" (AL) Control in the case of a Perturbed Unicycle Model. 
 
 # Usage
-1. Clone the repository:  
+1) Clone the repository:  
  ```sh 
  git clone "https://github.com/cybernetic-m/fosm_control_pertubed_unicycle.git"
  cd fosm_control_perturbed_unicycle
  ```
 
-2. Open and run the "main.m" file
+2) Open and run the "main.m" file, and you can choose:
+
+	2.1) Trajectory types: Circle or Lemniscate (Infinity) curves
+	2.2) Disturbances: Zero, Small or Large Disturbances
 
 
 # Project Structure 
@@ -33,11 +36,6 @@ fosm_control_perturbed_unicycle
 └── utils
     └── trajectory.m => To generate Circle and Lemniscate Curves
  ```
-
-# Usage
-To use the project you can run the "main.m" file choosing:
-1. Trajectory types: Circle or Lemniscate (Infinity) curves
-2. Disturbances: Zero, Small or Large Disturbances
 
 # Video
 <img src="gif_images/gif_fosm.gif" width="400" height="400" alt="Demo">
